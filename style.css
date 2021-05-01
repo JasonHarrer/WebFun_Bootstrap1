@@ -1,0 +1,62 @@
+nav {
+    background-color: lightgray;
+}
+
+nav a {
+    margin: 0 25px;
+}
+
+.jumbotron {
+    background-color: lightsalmon;
+}
+
+.sidebar {
+    background-color:aliceblue;
+}
+
+.sidebar a {
+    box-shadow: 3px 3px lightslategray;
+    font-size: 12px;
+    margin: 10px;
+    width: 200px;
+}
+
+.article-row {
+    height: 100px;
+    margin: 30px 0;
+}
+
+.article-container {
+    background-color:bisque;
+}
+
+.article-container a {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+
+    border: 3px solid black;
+}
+
+
+h6 {
+    margin-top: 5px;
+    font-size: 7px;
+}
+
+fieldset {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.form-row {
+    margin: 10px;
+}
+
+#div-firstname, #div-city {
+    padding-left: 0;
+}
+
+#div-lastname, #div-zip {
+    padding-right: 0;
+}
